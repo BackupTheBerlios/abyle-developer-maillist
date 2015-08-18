@@ -1,0 +1,1568 @@
+From admin at berlios.de  Wed Aug  1 21:46:54 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 19:46:54 -0000
+Subject: [Abyle-developer] [Feature #3598] exclude interface
+Message-ID: <200708011946.l71JkLml017332@unicorn.berlios.de>
+
+Feature Request #3598, was updated on 2007-Aug-01 21:46
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3598&group_id=7436
+
+Category: main
+Status: Open
+Priority: 5
+Summary: exclude interface
+
+By: nowx
+Date: 2007-Aug-01 21:46
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+main config file: exclude interface = yes
+
+so in der art
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3598&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 21:47:13 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 19:47:13 -0000
+Subject: [Abyle-developer] [Feature #3598] exclude interface
+Message-ID: <200708011946.l71Jkihf018567@unicorn.berlios.de>
+
+Feature Request #3598, was updated on 2007-Aug-01 21:46
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3598&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: exclude interface
+
+By: nowx
+Date: 2007-Aug-01 21:46
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+main config file: exclude interface = yes
+
+so in der art
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3598&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 21:48:24 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 19:48:24 -0000
+Subject: [Abyle-developer] [Feature #3599] all known bugs must be closed
+Message-ID: <200708011947.l71JlpH7020968@unicorn.berlios.de>
+
+Feature Request #3599, was updated on 2007-Aug-01 21:47
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3599&group_id=7436
+
+Category: main
+Status: Open
+Priority: 5
+Summary: all known bugs must be closed
+
+By: nowx
+Date: 2007-Aug-01 21:47
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+before 1.0 release
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3599&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 21:50:49 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 19:50:49 -0000
+Subject: [Abyle-developer] [Feature #3600] better readable logfile
+Message-ID: <200708011950.l71JoPxT027180@unicorn.berlios.de>
+
+Feature Request #3600, was updated on 2007-Aug-01 21:50
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3600&group_id=7436
+
+Category: output
+Status: Open
+Priority: 5
+Summary: better readable logfile
+
+By: nowx
+Date: 2007-Aug-01 21:50
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+some eyecandy things....
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3600&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 21:51:41 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 19:51:41 -0000
+Subject: [Abyle-developer] [Feature #3601] limit logfile size
+Message-ID: <200708011951.l71JpID3029756@unicorn.berlios.de>
+
+Feature Request #3601, was updated on 2007-Aug-01 21:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3601&group_id=7436
+
+Category: main
+Status: Open
+Priority: 5
+Summary: limit logfile size
+
+By: nowx
+Date: 2007-Aug-01 21:51
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+put config option into main config file
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3601&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 21:52:37 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 19:52:37 -0000
+Subject: [Abyle-developer] [Feature #3602] template rules
+Message-ID: <200708011951.l71JpwVt001272@unicorn.berlios.de>
+
+Feature Request #3602, was updated on 2007-Aug-01 21:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3602&group_id=7436
+
+Category: documentation
+Status: Open
+Priority: 5
+Summary: template rules
+
+By: nowx
+Date: 2007-Aug-01 21:51
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+for masq, logging, port-fowarding, transparent proxy,
+standard rules, etc.
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3602&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 21:53:19 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 19:53:19 -0000
+Subject: [Abyle-developer] [Feature #3602] rules template
+Message-ID: <200708011952.l71JqjQq002977@unicorn.berlios.de>
+
+Feature Request #3602, was updated on 2007-Aug-01 21:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3602&group_id=7436
+
+Category: documentation
+Status: Open
+Priority: 5
+Summary: rules template
+
+By: nowx
+Date: 2007-Aug-01 21:51
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+for masq, logging, port-fowarding, transparent proxy,
+standard rules, etc.
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3602&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 21:54:36 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 19:54:36 -0000
+Subject: [Abyle-developer] [Feature #3603] rename "transproxy"
+Message-ID: <200708011954.l71JsCGj006230@unicorn.berlios.de>
+
+Feature Request #3603, was updated on 2007-Aug-01 21:54
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3603&group_id=7436
+
+Category: main
+Status: Open
+Priority: 5
+Summary: rename "transproxy"
+
+By: nowx
+Date: 2007-Aug-01 21:54
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+into something better like transparent_proxy
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3603&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 21:56:05 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 19:56:05 -0000
+Subject: [Abyle-developer] [Feature #3604] remove allowping from rules
+Message-ID: <200708011955.l71JtbgZ009409@unicorn.berlios.de>
+
+Feature Request #3604, was updated on 2007-Aug-01 21:55
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+Category: main
+Status: Open
+Priority: 5
+Summary: remove allowping from rules
+
+By: nowx
+Date: 2007-Aug-01 21:55
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+move it into default rules and en/disable it in the
+interface config file
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 21:57:28 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 19:57:28 -0000
+Subject: [Abyle-developer] [Feature #3605] start/stop script
+Message-ID: <200708011956.l71Jut2a012236@unicorn.berlios.de>
+
+Feature Request #3605, was updated on 2007-Aug-01 21:56
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3605&group_id=7436
+
+Category: main
+Status: Open
+Priority: 5
+Summary: start/stop script
+
+By: nowx
+Date: 2007-Aug-01 21:56
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+create a start/stop script
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3605&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 21:59:41 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 19:59:41 -0000
+Subject: [Abyle-developer] [Feature #3606] add daemon function (abyle
+	--daemon)
+Message-ID: <200708011959.l71JxILn021390@unicorn.berlios.de>
+
+Feature Request #3606, was updated on 2007-Aug-01 21:59
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3606&group_id=7436
+
+Category: gui
+Status: Open
+Priority: 5
+Summary: add daemon function (abyle --daemon)
+
+By: nowx
+Date: 2007-Aug-01 21:59
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+connector between gui and main abyle script
+
+communication over FIFO files
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3606&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:01:33 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:01:33 -0000
+Subject: [Abyle-developer] [Feature #3607] daemon creates FIFO files
+Message-ID: <200708012001.l71K1AOO025973@unicorn.berlios.de>
+
+Feature Request #3607, was updated on 2007-Aug-01 22:01
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3607&group_id=7436
+
+Category: gui
+Status: Open
+Priority: 5
+Summary: daemon creates FIFO files
+
+By: nowx
+Date: 2007-Aug-01 22:01
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+/var/run/abyle/abyle.in
+/var/run/abyle/abyle.out
+
+don`t forget to set the right permissions
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3607&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:02:01 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:02:01 -0000
+Subject: [Abyle-developer] [Feature #3607] daemon creates FIFO files
+Message-ID: <200708012001.l71K1WwJ026767@unicorn.berlios.de>
+
+Feature Request #3607, was updated on 2007-Aug-01 22:01
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3607&group_id=7436
+
+Category: gui
+Status: Open
+Priority: 9
+Summary: daemon creates FIFO files
+
+By: nowx
+Date: 2007-Aug-01 22:01
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+/var/run/abyle/abyle.in
+/var/run/abyle/abyle.out
+
+don`t forget to set the right permissions
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3607&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:02:11 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:02:11 -0000
+Subject: [Abyle-developer] [Feature #3606] add daemon function (abyle
+	--daemon)
+Message-ID: <200708012001.l71K1cmG026968@unicorn.berlios.de>
+
+Feature Request #3606, was updated on 2007-Aug-01 21:59
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3606&group_id=7436
+
+Category: gui
+Status: Open
+Priority: 9
+Summary: add daemon function (abyle --daemon)
+
+By: nowx
+Date: 2007-Aug-01 21:59
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+connector between gui and main abyle script
+
+communication over FIFO files
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3606&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:02:16 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:02:16 -0000
+Subject: [Abyle-developer] [Feature #3603] rename "transproxy"
+Message-ID: <200708012001.l71K1rBq027543@unicorn.berlios.de>
+
+Feature Request #3603, was updated on 2007-Aug-01 21:54
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3603&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: rename "transproxy"
+
+By: nowx
+Date: 2007-Aug-01 21:54
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+into something better like transparent_proxy
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3603&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:02:22 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:02:22 -0000
+Subject: [Abyle-developer] [Feature #3604] remove allowping from rules
+Message-ID: <200708012001.l71K1rnQ027537@unicorn.berlios.de>
+
+Feature Request #3604, was updated on 2007-Aug-01 21:55
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: remove allowping from rules
+
+By: nowx
+Date: 2007-Aug-01 21:55
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+move it into default rules and en/disable it in the
+interface config file
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:02:22 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:02:22 -0000
+Subject: [Abyle-developer] [Feature #3602] rules template
+Message-ID: <200708012001.l71K1r2W027549@unicorn.berlios.de>
+
+Feature Request #3602, was updated on 2007-Aug-01 21:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3602&group_id=7436
+
+Category: documentation
+Status: Open
+Priority: 9
+Summary: rules template
+
+By: nowx
+Date: 2007-Aug-01 21:51
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+for masq, logging, port-fowarding, transparent proxy,
+standard rules, etc.
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3602&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:02:26 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:02:26 -0000
+Subject: [Abyle-developer] [Feature #3605] start/stop script
+Message-ID: <200708012001.l71K1mN0027336@unicorn.berlios.de>
+
+Feature Request #3605, was updated on 2007-Aug-01 21:56
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3605&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: start/stop script
+
+By: nowx
+Date: 2007-Aug-01 21:56
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+create a start/stop script
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3605&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:02:32 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:02:32 -0000
+Subject: [Abyle-developer] [Feature #3601] limit logfile size
+Message-ID: <200708012001.l71K1wsP027750@unicorn.berlios.de>
+
+Feature Request #3601, was updated on 2007-Aug-01 21:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3601&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: limit logfile size
+
+By: nowx
+Date: 2007-Aug-01 21:51
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+put config option into main config file
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3601&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:02:32 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:02:32 -0000
+Subject: [Abyle-developer] [Feature #3599] all known bugs must be closed
+Message-ID: <200708012002.l71K29H6028437@unicorn.berlios.de>
+
+Feature Request #3599, was updated on 2007-Aug-01 21:47
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3599&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: all known bugs must be closed
+
+By: nowx
+Date: 2007-Aug-01 21:47
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+before 1.0 release
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3599&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:02:33 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:02:33 -0000
+Subject: [Abyle-developer] [Feature #3600] better readable logfile
+Message-ID: <200708012002.l71K29VM028431@unicorn.berlios.de>
+
+Feature Request #3600, was updated on 2007-Aug-01 21:50
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3600&group_id=7436
+
+Category: output
+Status: Open
+Priority: 9
+Summary: better readable logfile
+
+By: nowx
+Date: 2007-Aug-01 21:50
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+some eyecandy things....
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3600&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:02:51 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:02:51 -0000
+Subject: [Abyle-developer] [Feature #3488] abyle logfile should be logrotated
+Message-ID: <200708012002.l71K2NCa029080@unicorn.berlios.de>
+
+Feature Request #3488, was updated on 2007-Jun-08 23:59
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3488&group_id=7436
+
+Category: installer
+Status: Open
+Priority: 1
+Summary: abyle logfile should be logrotated
+
+By: nowx
+Date: 2007-Jun-08 23:59
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.3) Gecko/20061201 Firefox/2.0.0.3 (Ubuntu-feisty)
+
+the abyle logfile (default: /var/log/abyle.log) should
+be integrated in the systems logrotate.
+
+
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3488&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:04:48 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:04:48 -0000
+Subject: [Abyle-developer] [Feature #3608] php based gui
+Message-ID: <200708012004.l71K40RO005561@unicorn.berlios.de>
+
+Feature Request #3608, was updated on 2007-Aug-01 22:04
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3608&group_id=7436
+
+Category: gui
+Status: Open
+Priority: 5
+Summary: php based gui
+
+By: nowx
+Date: 2007-Aug-01 22:04
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+communicate with abyle through daemon and FIFO files
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3608&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:04:53 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:04:53 -0000
+Subject: [Abyle-developer] [Feature #3608] php based gui
+Message-ID: <200708012004.l71K4Phv006515@unicorn.berlios.de>
+
+Feature Request #3608, was updated on 2007-Aug-01 22:04
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3608&group_id=7436
+
+Category: gui
+Status: Open
+Priority: 9
+Summary: php based gui
+
+By: nowx
+Date: 2007-Aug-01 22:04
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+communicate with abyle through daemon and FIFO files
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3608&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:05:59 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:05:59 -0000
+Subject: [Abyle-developer] [Feature #3602] rules template
+Message-ID: <200708012005.l71K5ab8009151@unicorn.berlios.de>
+
+Feature Request #3602, was updated on 2007-Aug-01 21:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3602&group_id=7436
+
+Category: documentation
+Status: Open
+Priority: 5
+Summary: rules template
+
+By: nowx
+Date: 2007-Aug-01 21:51
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+for masq, logging, port-fowarding, transparent proxy,
+standard rules, etc.
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3602&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:06:01 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:06:01 -0000
+Subject: [Abyle-developer] [Feature #3608] php based gui
+Message-ID: <200708012005.l71K51MR007915@unicorn.berlios.de>
+
+Feature Request #3608, was updated on 2007-Aug-01 22:04
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3608&group_id=7436
+
+Category: gui
+Status: Open
+Priority: 5
+Summary: php based gui
+
+By: nowx
+Date: 2007-Aug-01 22:04
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+communicate with abyle through daemon and FIFO files
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3608&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:06:10 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:06:10 -0000
+Subject: [Abyle-developer] [Feature #3600] better readable logfile
+Message-ID: <200708012005.l71K5kV3009543@unicorn.berlios.de>
+
+Feature Request #3600, was updated on 2007-Aug-01 21:50
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3600&group_id=7436
+
+Category: output
+Status: Open
+Priority: 5
+Summary: better readable logfile
+
+By: nowx
+Date: 2007-Aug-01 21:50
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+some eyecandy things....
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3600&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:06:14 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:06:14 -0000
+Subject: [Abyle-developer] [Feature #3601] limit logfile size
+Message-ID: <200708012005.l71K5aID009186@unicorn.berlios.de>
+
+Feature Request #3601, was updated on 2007-Aug-01 21:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3601&group_id=7436
+
+Category: main
+Status: Open
+Priority: 5
+Summary: limit logfile size
+
+By: nowx
+Date: 2007-Aug-01 21:51
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+put config option into main config file
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3601&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:07:05 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:07:05 -0000
+Subject: [Abyle-developer] [Feature #3607] daemon creates FIFO files
+Message-ID: <200708012006.l71K6bKC011920@unicorn.berlios.de>
+
+Feature Request #3607, was updated on 2007-Aug-01 22:01
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3607&group_id=7436
+
+Category: gui
+Status: Open
+Priority: 9
+Summary: daemon creates FIFO files
+
+By: nowx
+Date: 2007-Aug-01 22:01
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+/var/run/abyle/abyle.in
+/var/run/abyle/abyle.out
+
+don`t forget to set the right permissions
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3607&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:07:10 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:07:10 -0000
+Subject: [Abyle-developer] [Feature #3606] add daemon function (abyle
+	--daemon)
+Message-ID: <200708012006.l71K6bZj011926@unicorn.berlios.de>
+
+Feature Request #3606, was updated on 2007-Aug-01 21:59
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3606&group_id=7436
+
+Category: gui
+Status: Open
+Priority: 9
+Summary: add daemon function (abyle --daemon)
+
+By: nowx
+Date: 2007-Aug-01 21:59
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+connector between gui and main abyle script
+
+communication over FIFO files
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3606&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:07:25 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:07:25 -0000
+Subject: [Abyle-developer] [Feature #3604] remove allowping from rules
+Message-ID: <200708012007.l71K72QE012839@unicorn.berlios.de>
+
+Feature Request #3604, was updated on 2007-Aug-01 21:55
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: remove allowping from rules
+
+By: nowx
+Date: 2007-Aug-01 21:55
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+move it into default rules and en/disable it in the
+interface config file
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:07:26 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:07:26 -0000
+Subject: [Abyle-developer] [Feature #3605] start/stop script
+Message-ID: <200708012006.l71K6ltJ012287@unicorn.berlios.de>
+
+Feature Request #3605, was updated on 2007-Aug-01 21:56
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3605&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: start/stop script
+
+By: nowx
+Date: 2007-Aug-01 21:56
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+create a start/stop script
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3605&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:07:31 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:07:31 -0000
+Subject: [Abyle-developer] [Feature #3603] rename "transproxy"
+Message-ID: <200708012007.l71K72QI012845@unicorn.berlios.de>
+
+Feature Request #3603, was updated on 2007-Aug-01 21:54
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3603&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: rename "transproxy"
+
+By: nowx
+Date: 2007-Aug-01 21:54
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+into something better like transparent_proxy
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3603&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:07:36 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:07:36 -0000
+Subject: [Abyle-developer] [Feature #3599] all known bugs must be closed
+Message-ID: <200708012007.l71K72PE012851@unicorn.berlios.de>
+
+Feature Request #3599, was updated on 2007-Aug-01 21:47
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3599&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: all known bugs must be closed
+
+By: nowx
+Date: 2007-Aug-01 21:47
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+before 1.0 release
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3599&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:08:06 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:08:06 -0000
+Subject: [Abyle-developer] [Feature #3608] php based gui
+Message-ID: <200708012007.l71K7bAX014113@unicorn.berlios.de>
+
+Feature Request #3608, was updated on 2007-Aug-01 22:04
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3608&group_id=7436
+
+Category: gui
+Status: Open
+Priority: 9
+Summary: php based gui
+
+By: nowx
+Date: 2007-Aug-01 22:04
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+communicate with abyle through daemon and FIFO files
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3608&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:08:12 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:08:12 -0000
+Subject: [Abyle-developer] [Feature #3601] limit logfile size
+Message-ID: <200708012007.l71K7mmf014515@unicorn.berlios.de>
+
+Feature Request #3601, was updated on 2007-Aug-01 21:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3601&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: limit logfile size
+
+By: nowx
+Date: 2007-Aug-01 21:51
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+put config option into main config file
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3601&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:08:16 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:08:16 -0000
+Subject: [Abyle-developer] [Feature #3602] rules template
+Message-ID: <200708012007.l71K7bkm014119@unicorn.berlios.de>
+
+Feature Request #3602, was updated on 2007-Aug-01 21:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3602&group_id=7436
+
+Category: documentation
+Status: Open
+Priority: 9
+Summary: rules template
+
+By: nowx
+Date: 2007-Aug-01 21:51
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+for masq, logging, port-fowarding, transparent proxy,
+standard rules, etc.
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3602&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 22:08:17 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 20:08:17 -0000
+Subject: [Abyle-developer] [Feature #3600] better readable logfile
+Message-ID: <200708012007.l71K7nQX014521@unicorn.berlios.de>
+
+Feature Request #3600, was updated on 2007-Aug-01 21:50
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3600&group_id=7436
+
+Category: output
+Status: Open
+Priority: 9
+Summary: better readable logfile
+
+By: nowx
+Date: 2007-Aug-01 21:50
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+some eyecandy things....
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3600&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 23:01:05 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 21:01:05 -0000
+Subject: [Abyle-developer] [Feature #3609] better readable abyle -i output
+Message-ID: <200708012100.l71L0Amr018747@unicorn.berlios.de>
+
+Feature Request #3609, was updated on 2007-Aug-01 23:00
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3609&group_id=7436
+
+Category: output
+Status: Open
+Priority: 5
+Summary: better readable abyle -i output
+
+By: nowx
+Date: 2007-Aug-01 23:00
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+colorized for example...
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3609&group_id=7436
+
+
+From admin at berlios.de  Wed Aug  1 23:02:18 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Wed, 01 Aug 2007 21:02:18 -0000
+Subject: [Abyle-developer] [Feature #3609] better readable abyle -i output
+Message-ID: <200708012101.l71L1rOv022474@unicorn.berlios.de>
+
+Feature Request #3609, was updated on 2007-Aug-01 23:00
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3609&group_id=7436
+
+Category: output
+Status: Open
+Priority: 9
+Summary: better readable abyle -i output
+
+By: nowx
+Date: 2007-Aug-01 23:00
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+colorized for example...
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3609&group_id=7436
+
+
+From admin at berlios.de  Thu Aug  2 08:22:00 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Thu, 02 Aug 2007 06:22:00 -0000
+Subject: [Abyle-developer] [Feature #3598] exclude interface
+Message-ID: <200708020621.l726LUj3014111@unicorn.berlios.de>
+
+Feature Request #3598, was updated on 2007-Aug-01 21:46
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3598&group_id=7436
+
+Category: main
+Status: Open
+Priority: 9
+Summary: exclude interface
+
+By: scuq
+Date: 2007-Aug-02 08:21
+
+Message:
+Logged In: YES 
+user_id=32087
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+
+done
+
+----------------------------------------------------------------------
+
+By: nowx
+Date: 2007-Aug-01 21:46
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+main config file: exclude interface = yes
+
+so in der art
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3598&group_id=7436
+
+
+From admin at berlios.de  Thu Aug  2 08:22:48 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Thu, 02 Aug 2007 06:22:48 -0000
+Subject: [Abyle-developer] [Feature #3598] exclude interface
+Message-ID: <200708020622.l726MHYj016467@unicorn.berlios.de>
+
+Feature Request #3598, was updated on 2007-Aug-01 21:46
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3598&group_id=7436
+
+Category: main
+Status: Closed
+Priority: 9
+Summary: exclude interface
+
+By: scuq
+Date: 2007-Aug-02 08:21
+
+Message:
+Logged In: YES 
+user_id=32087
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+
+done
+
+----------------------------------------------------------------------
+
+By: nowx
+Date: 2007-Aug-01 21:46
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+main config file: exclude interface = yes
+
+so in der art
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3598&group_id=7436
+
+
+From admin at berlios.de  Thu Aug  2 09:18:25 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Thu, 02 Aug 2007 07:18:25 -0000
+Subject: [Abyle-developer] [Feature #3604] remove allowping from rules
+Message-ID: <200708020718.l727I0G1028566@unicorn.berlios.de>
+
+Feature Request #3604, was updated on 2007-Aug-01 21:55
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+Category: main
+Status: Closed
+Priority: 9
+Summary: remove allowping from rules
+
+By: scuq
+Date: 2007-Aug-02 09:18
+
+Message:
+Logged In: YES 
+user_id=32087
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+
+done
+
+----------------------------------------------------------------------
+
+By: nowx
+Date: 2007-Aug-01 21:55
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+move it into default rules and en/disable it in the
+interface config file
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+
+From admin at berlios.de  Thu Aug  2 09:43:24 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Thu, 02 Aug 2007 07:43:24 -0000
+Subject: [Abyle-developer] [Feature #3604] remove allowping from rules
+Message-ID: <200708020742.l727gxIf024800@unicorn.berlios.de>
+
+Feature Request #3604, was updated on 2007-Aug-01 21:55
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+Category: main
+Status: Closed
+Priority: 9
+Summary: remove allowping from rules
+
+By: scuq
+Date: 2007-Aug-02 09:42
+
+Message:
+Logged In: YES 
+user_id=32087
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+
+done
+
+----------------------------------------------------------------------
+
+By: scuq
+Date: 2007-Aug-02 09:18
+
+Message:
+Logged In: YES 
+user_id=32087
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+
+done
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+
+From admin at berlios.de  Thu Aug  2 09:48:16 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Thu, 02 Aug 2007 07:48:16 -0000
+Subject: [Abyle-developer] [Feature #3604] remove allowping from rules
+Message-ID: <200708020747.l727lp5q005543@unicorn.berlios.de>
+
+Feature Request #3604, was updated on 2007-Aug-01 21:55
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+Category: main
+Status: Closed
+Priority: 9
+Summary: remove allowping from rules
+
+By: scuq
+Date: 2007-Aug-02 09:47
+
+Message:
+Logged In: YES 
+user_id=32087
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+
+done
+
+----------------------------------------------------------------------
+
+By: scuq
+Date: 2007-Aug-02 09:42
+
+Message:
+Logged In: YES 
+user_id=32087
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+
+done
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3604&group_id=7436
+
+
+From admin at berlios.de  Thu Aug  2 10:48:46 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Thu, 02 Aug 2007 08:48:46 -0000
+Subject: [Abyle-developer] [Feature #3603] rename "transproxy"
+Message-ID: <200708020848.l728mH4U021960@unicorn.berlios.de>
+
+Feature Request #3603, was updated on 2007-Aug-01 21:54
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3603&group_id=7436
+
+Category: main
+Status: Closed
+Priority: 9
+Summary: rename "transproxy"
+
+By: nowx
+Date: 2007-Aug-01 21:54
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+into something better like transparent_proxy
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3603&group_id=7436
+
+
+From admin at berlios.de  Fri Aug  3 23:00:57 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Fri, 03 Aug 2007 21:00:57 -0000
+Subject: [Abyle-developer] [Feature #3601] limit logfile size
+Message-ID: <200708032100.l73L0Tp6028530@unicorn.berlios.de>
+
+Feature Request #3601, was updated on 2007-Aug-01 21:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3601&group_id=7436
+
+Category: main
+Status: Closed
+Priority: 9
+Summary: limit logfile size
+
+By: nowx
+Date: 2007-Aug-01 21:51
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+put config option into main config file
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3601&group_id=7436
+
+
+From admin at berlios.de  Fri Aug  3 23:00:57 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Fri, 03 Aug 2007 21:00:57 -0000
+Subject: [Abyle-developer] [Feature #3609] better readable abyle -i output
+Message-ID: <200708032100.l73L0S11028524@unicorn.berlios.de>
+
+Feature Request #3609, was updated on 2007-Aug-01 23:00
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3609&group_id=7436
+
+Category: output
+Status: Closed
+Priority: 9
+Summary: better readable abyle -i output
+
+By: nowx
+Date: 2007-Aug-01 23:00
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+colorized for example...
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3609&group_id=7436
+
+
+From admin at berlios.de  Fri Aug  3 23:00:58 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Fri, 03 Aug 2007 21:00:58 -0000
+Subject: [Abyle-developer] [Feature #3600] better readable logfile
+Message-ID: <200708032100.l73L0Tvf028536@unicorn.berlios.de>
+
+Feature Request #3600, was updated on 2007-Aug-01 21:50
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3600&group_id=7436
+
+Category: output
+Status: Closed
+Priority: 9
+Summary: better readable logfile
+
+By: nowx
+Date: 2007-Aug-01 21:50
+
+Message:
+Logged In: YES 
+user_id=32091
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+
+some eyecandy things....
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3600&group_id=7436
+
+

@@ -1,0 +1,80 @@
+From Daniel.Schrammel at lsag.com  Wed Jun  6 13:02:11 2007
+From: Daniel.Schrammel at lsag.com (Schrammel Daniel)
+Date: Wed, 6 Jun 2007 13:02:11 +0200
+Subject: [Abyle-developer] testmail
+Message-ID: <55DACFCA8593B447904D715AB1B7C6613ADE5E@MAIL.lsag.net>
+
+bekommen??
+ 
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/abyle-developer/attachments/20070606/77eae9bc/attachment.html>
+
+From Daniel.Schrammel at lsag.com  Wed Jun  6 13:09:11 2007
+From: Daniel.Schrammel at lsag.com (Schrammel Daniel)
+Date: Wed, 6 Jun 2007 13:09:11 +0200
+Subject: [Abyle-developer] test
+Message-ID: <55DACFCA8593B447904D715AB1B7C6613ADE5F@MAIL.lsag.net>
+
+test
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/abyle-developer/attachments/20070606/529206fa/attachment.html>
+
+From admin at berlios.de  Mon Jun 11 21:44:13 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Mon, 11 Jun 2007 21:44:13 +0200 (CEST)
+Subject: [Abyle-developer] [Bug #11300] dry-run options should be considerd
+	with -b
+Message-ID: <200706111944.l5BJiDrD020357@unicorn.berlios.de>
+
+Bug #11300, was updated on 2007-Jun-11 21:44
+Here is a current snapshot of the bug.
+
+Project: abyle-firewall
+Category: main
+Status: Open
+Resolution: None
+Bug Group: None
+Priority: 9
+Submitted by: nowx
+Assigned to : none
+Summary: dry-run options should be considerd with -b
+
+Details: abyle -d -b dont work because -d options only available with -s
+
+For detailed info, follow this link:
+http://developer.berlios.de/bugs/?func=detailbug&bug_id=11300&group_id=7436
+
+
+From admin at berlios.de  Thu Jun 14 21:08:38 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Thu, 14 Jun 2007 21:08:38 +0200 (CEST)
+Subject: [Abyle-developer] [Bug #11381] "abyle -d -s -v" does not work
+Message-ID: <200706141908.l5EJ8cOP029541@unicorn.berlios.de>
+
+Bug #11381, was updated on 2007-Jun-14 21:08
+Here is a current snapshot of the bug.
+
+Project: abyle-firewall
+Category: main
+Status: Open
+Resolution: None
+Bug Group: None
+Priority: 1
+Submitted by: nowx
+Assigned to : nowx
+Summary: "abyle -d -s -v" does not work
+
+Details: because -d the cmderr var is not used.
+
+so the verbose output does not work
+
+
+some checks must be implementet I think
+
+For detailed info, follow this link:
+http://developer.berlios.de/bugs/?func=detailbug&bug_id=11381&group_id=7436
+
+

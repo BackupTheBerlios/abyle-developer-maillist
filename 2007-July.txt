@@ -1,0 +1,84 @@
+From admin at berlios.de  Tue Jul 24 10:57:20 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Tue, 24 Jul 2007 08:57:20 -0000
+Subject: [Abyle-developer] [Feature #3472] rewrite xml parser
+Message-ID: <200707240831.l6O8Vgrk003112@unicorn.berlios.de>
+
+Feature Request #3472, was updated on 2007-Jun-05 21:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3472&group_id=7436
+
+Category: main
+Status: Closed
+Priority: 1
+Summary: rewrite xml parser
+
+By: scuq
+Date: 2007-Jul-24 10:31
+
+Message:
+Logged In: YES 
+user_id=32087
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+
+done
+
+----------------------------------------------------------------------
+
+By: scuq
+Date: 2007-Jun-05 21:51
+
+Message:
+Logged In: YES 
+user_id=32087
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+
+rewrite xml parser
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3472&group_id=7436
+
+
+From admin at berlios.de  Tue Jul 24 10:37:06 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Tue, 24 Jul 2007 08:37:06 -0000
+Subject: [Abyle-developer] [Feature #3469] redesign block chain mechanism
+Message-ID: <200707240832.l6O8WA6V004967@unicorn.berlios.de>
+
+Feature Request #3469, was updated on 2007-Jun-05 21:30
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3469&group_id=7436
+
+Category: main
+Status: Closed
+Priority: 9
+Summary: redesign block chain mechanism
+
+By: scuq
+Date: 2007-Jul-24 10:32
+
+Message:
+Logged In: YES 
+user_id=32087
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+
+not needed
+
+----------------------------------------------------------------------
+
+By: scuq
+Date: 2007-Jun-05 21:30
+
+Message:
+Logged In: YES 
+user_id=32087
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+
+you know ...
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3469&group_id=7436
+
+
